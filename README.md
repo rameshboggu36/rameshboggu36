@@ -43,7 +43,7 @@ Worked in the Sterling Omnihub Dev Team, developing omnichannel modules, unit te
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rameshboggu36&show_icons=true&theme=radical" alt="Ramesh's GitHub Stats"/><br><br>
-<img src="https://streak-stats.demolab.com?user=rameshboggu36&theme=radical" alt="GitHub Streak"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshboggu36&theme=radical" alt="GitHub Streak"/><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshboggu36&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
