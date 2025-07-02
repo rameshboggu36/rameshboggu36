@@ -30,7 +30,7 @@ From building chatbots and OCR systems to designing dashboards and predictive mo
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ramesh's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rameshboggu36&show_icons=true&theme=radical" alt="Ramesh's GitHub Stats"/>
 </p>
 
 ---
