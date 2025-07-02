@@ -38,9 +38,9 @@ From building chatbots and OCR systems to designing dashboards and predictive mo
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/boggu-ramesh-ba7722156/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+<a href="mailto:rameshboggu999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
+<a href="https://github.com/rameshboggu36"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"></a>
 </p>
 
 ---
@@ -53,5 +53,5 @@ I believe in continuous learning, collaboration, and building tech that creates 
 
 <p align="center">
 Visitors Count<br>
-<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
+<img src="https://profile-counter.glitch.me/rameshboggu36/count.svg" />
 </p>
