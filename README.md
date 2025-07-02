@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 🙏</h1>
 
 <p align="center">
-👋 Hi there! I'm **Ramesh Boggu**, a Data Scientist and Full Stack Developer with a passion for building impactful solutions using Machine Learning, Deep Learning, and Computer Vision. I hold an MTech from IIT Kanpur and have 5 years of experience working on real-world analytics applications in industry settings.
+👋 Hi there! I'm <strong>Ramesh Boggu</strong>, a Data Scientist with a passion for building impactful solutions using Machine Learning, Deep Learning, and Computer Vision. I hold an MTech from IIT Kanpur and have 3 years of experience working on real-world analytics applications in industry settings.
 <br><br>
 From building chatbots and OCR systems to designing dashboards and predictive models, I love solving meaningful problems with data. My toolset includes Python, SQL, Power BI, TensorFlow, PyTorch, and modern development frameworks.
 </p>
@@ -27,10 +27,24 @@ From building chatbots and OCR systems to designing dashboards and predictive mo
 
 ---
 
+<h3 align="center">💼 Experience</h3>
+
+<p align="center">
+<strong>📌 Data Scientist</strong> – TVS Credit Services <br>
+🚀 Currently building OCR automation pipelines and fraud detection systems using facial deduplication, leveraging deep learning and computer vision to enhance document verification and prevent identity fraud at scale.<br><br>
+
+<strong>📌 Junior Developer </strong> – Infosys Ltd (2016–2022)<br>
+Worked in the Sterling Omnihub Dev Team, developing omnichannel modules, unit testing, and building customer-centric backend solutions.<br><br>
+
+
+---
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rameshboggu36&show_icons=true&theme=radical" alt="Ramesh's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rameshboggu36&show_icons=true&theme=radical" alt="Ramesh's GitHub Stats"/><br><br>
+<img src="https://streak-stats.demolab.com?user=rameshboggu36&theme=radical" alt="GitHub Streak"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshboggu36&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -42,6 +56,17 @@ From building chatbots and OCR systems to designing dashboards and predictive mo
 <a href="mailto:rameshboggu999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
 <a href="https://github.com/rameshboggu36"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"></a>
 </p>
+
+---
+
+<h3 align="center">🎉 Fun Facts</h3>
+
+<ul align="center">
+  <li>🏏 I love playing cricket, even though my team loses most matches 😅</li>
+  <li>🧑‍🤝‍🧑 I’ve made most of my friends on the cricket field</li>
+  <li>🤖 Constantly experimenting with DL, OCR, and GPU optimization.</li>
+  <li>📊 I enjoy turning raw datasets into actionable business insights</li>
+</ul>
 
 ---
 
